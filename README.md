@@ -3,7 +3,7 @@
 <h3 align="center">🧑🏻‍💻 Building Skills in Software Development , Exploring Algorithms and Cloud Technologies</h3>
 
 
-<img align="right" alt="Coder GIF" height=250 width=250 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+<img align="right" alt="Coder GIF" height=250 width=250 src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasvirajsingh&label=Profile%20views&color=0e75b6&style=flat" alt="tejasvirajsingh" /> </p>
 
@@ -30,6 +30,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejasvirajsingh&show_icons=true&locale=en&layout=compact" alt="tejasvirajsingh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejasvirajsingh&show_icons=true&locale=en" alt="tejasvirajsingh" /></p>
+<p>
+
+  
+</p>
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=tejasvirajsingh&show_icons=true&locale=en" alt="tejasvirajsingh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejasvirajsingh&" alt="tejasvirajsingh" /></p>
