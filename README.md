@@ -34,4 +34,4 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tejasvirajsingh&show_icons=true&locale=en" alt="tejasvirajsingh" /></p>
 
-<p><img width="200" height="100" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tejasvirajsingh&" alt="tejasvirajsingh" /></p>
+<p><img width="450" height="200" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tejasvirajsingh&" alt="tejasvirajsingh" /></p>
