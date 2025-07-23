@@ -1,4 +1,8 @@
-![Hearder](https://github.com/tejasvirajsingh/tejasvirajsingh/blob/main/github-header-image%20(1).png?raw=true)
+<!-- Header Banner with Custom Size -->
+<p align="center">
+  <img src="https://github.com/tejasvirajsingh/tejasvirajsingh/blob/main/github-header-image%20(1).png?raw=true" alt="Header Banner" width="700" height="190">
+</p>
+
 <h1 align="center">Hi ,🖐🏻 I'm Tejasvi Raj Singh</h1>
 <h3 align="center">🧑🏻‍💻 Building Skills in Software Development , Exploring Algorithms and Cloud Technologies</h3>
 
