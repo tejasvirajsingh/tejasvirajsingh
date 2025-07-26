@@ -1,6 +1,6 @@
 <!-- Header Banner with Custom Size -->
 <p align="center">
-  <img src="https://github.com/tejasvirajsingh/tejasvirajsingh/blob/main/github-header-image.png" alt="Header Banner" width="650" height="190">
+  <img src="https://github.com/tejasvirajsingh/tejasvirajsingh/blob/main/github-header-image.png" alt="Header Banner" width="700" height="190">
 </p>
 
 <h1 align="center">Hi ,🖐🏻 I'm Tejasvi Raj Singh</h1>
