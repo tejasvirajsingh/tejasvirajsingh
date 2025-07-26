@@ -3,8 +3,8 @@
   <img src="https://github.com/tejasvirajsingh/tejasvirajsingh/blob/main/github-header-image.png" alt="Header Banner" width="700" height="190">
 </p>
 
-<h1 align="center">Hi ,🖐🏻 I'm Tejasvi Raj Singh</h1>
-<h3 align="center">🧑🏻‍💻 Building Skills in Software Development , Exploring Algorithms and Cloud Technologies</h3>
+<h2 align="center">Hi ,🖐🏻 I'm Tejasvi Raj Singh</h2>
+<h4 align="center">🧑🏻‍💻 Building Skills in Software Development , Exploring Algorithms and Cloud Technologies</h4>
 
 
 <img align="right" alt="Coder GIF" height=250 width=250 src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
