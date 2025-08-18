@@ -3,7 +3,7 @@
   <img src="https://github.com/tejasvirajsingh/tejasvirajsingh/blob/main/hiii.png" alt="Header Banner" width="800" height="220">
 </p>
 
-<h2 align="center">Hi ,🖐🏻 I'm Tejasvi Raj Singh</h2>
+<h2 align="center">Hi ,🖐🏻 I'm Tejasvi Raj Singh    <img src="codegif.webp" width ="30"> </h2>
 <h4 align="center">🧑🏻‍💻 Building Skills in Software Development , Exploring Algorithms and Cloud Technologies</h4>
 
 
@@ -11,9 +11,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasvirajsingh&label=Profile%20views&color=0e75b6&style=flat" alt="tejasvirajsingh" /> </p>
 
-<a href="https://bit.ly/tejasvirajsingh">
-<img src="static/codegif.webp" width ="30">
-</a>
+
+
+
 
 
 - 🔭 I’m currently working on **Web Dev 🧑🏻‍💻**
