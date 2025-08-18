@@ -11,6 +11,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasvirajsingh&label=Profile%20views&color=0e75b6&style=flat" alt="tejasvirajsingh" /> </p>
 
+<a href="https://bit.ly/tejasvirajsingh">
+<img src="static/codegif.webp" width ="30">
+</a>
 
 
 - 🔭 I’m currently working on **Web Dev 🧑🏻‍💻**
