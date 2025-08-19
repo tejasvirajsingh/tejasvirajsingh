@@ -20,7 +20,11 @@
 
 - 🌱 I’m currently learning **Data structure Algorithm**
 
-- 💬 Ask me about **React.js, C ,Java**
+- 💬 Ask me about **React.js, C ,Java, Python, C++, GitHub**
+
+- ✨ Curious about my work?  **Visit my Protfolio site 💁🏻‍♂️ https://tejasvimax.netlify.app/**
+  
+
 
 - 📫 How to reach me **tejasvirajsingh2003@gmail.com**
 
