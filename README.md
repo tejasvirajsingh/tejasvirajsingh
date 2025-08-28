@@ -3,7 +3,7 @@
   <img src="https://github.com/tejasvirajsingh/tejasvirajsingh/blob/main/hiii.png" alt="Header Banner" width="800" height="220">
 </p>
 
-<h2 align="center">Hi ,🖐🏻 I'm Tejasvi Raj Singh    <img src="codegif.webp" width ="30"> </h2>
+<h2 align="center">Hi ,🖐🏻 I'm Tejasvi Raj Singh    <img src="codegif.webp" width ="20"> </h2>
 <h4 align="center">🧑🏻‍💻 Building Skills in Software Development , Exploring Algorithms and Cloud Technologies</h4>
 
 
