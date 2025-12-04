@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **React.js, C ,Java, Python, C++, GitHub**
 
-- ✨ Curious about my work?  **Visit my Protfolio site 💁🏻‍♂️ https://tejasvimax.netlify.app/**
+- ✨ **Visit my Protfolio site  💁🏻‍♂️  https://tejasvimax.vercel.app/**
   
 
 
