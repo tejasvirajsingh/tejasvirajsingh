@@ -115,13 +115,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
 </p>
-<img width="300" height="150" align="left" 
-     src="https://github-readme-stats.vercel.app/api/top-langs?username=tejasvirajsingh&show_icons=true&locale=en&layout=compact" 
-     alt="tejasvirajsingh" />
 
-
-
-
-
-<p>&nbsp;<img width="300" height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=tejasvirajsingh&show_icons=true&locale=en" alt="tejasvirajsingh" /></p>
 
