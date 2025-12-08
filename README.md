@@ -58,12 +58,6 @@
 <p align="center"> 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tejasvirajsingh&theme=react-dark&bg_color=000000&hide_border=true" heights="500" width="900">  </p>
 
-##### 🔥 Streak Stats 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejasvirajsingh&theme=blueberry&hide_border=false" alt="streak stats height="50"  />
-</p>
-
 
 
 
