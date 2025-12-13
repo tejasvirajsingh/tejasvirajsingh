@@ -46,6 +46,20 @@
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
+<!-- GitHub -->
+<a href="https://github.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+       width="40" height="40"/>
+</a>
+
+<!-- Git -->
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+       width="40" height="40"/>
+</a>
+
+
+
 
 </p>
 
