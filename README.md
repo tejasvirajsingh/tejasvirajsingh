@@ -57,7 +57,17 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
        width="40" height="40"/>
 </a>
+<!-- Figma -->
+<a href="https://www.figma.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"
+       width="40" height="40"/>
+</a>
 
+<!-- Android Studio -->
+<a href="https://developer.android.com/studio" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg"
+       width="40" height="40"/>
+</a>
 
 
 
