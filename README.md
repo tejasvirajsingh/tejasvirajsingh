@@ -139,7 +139,7 @@
 ---
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tejasvirajsingh&theme=radical&hide_border=true&show_icons=true" height="160px" />
+
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=tejasvirajsingh&theme=radical&hide_border=true" height="160px" />
 
