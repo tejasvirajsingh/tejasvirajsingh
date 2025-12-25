@@ -1,6 +1,6 @@
 <!-- Header Banner with Custom Size -->
 <p align="center">
-  <img src="https://github.com/tejasvirajsingh/tejasvirajsingh/blob/main/hiii.png" alt="Header Banner" width="600" height="200">
+  <img src="https://github.com/tejasvirajsingh/tejasvirajsingh/blob/main/hiii.png" alt="Header Banner" width="500" height="200">
 </p>
 
 <h2 align="center">Hi ,🖐🏻 I'm Tejasvi Raj Singh <img src="codegif.webp" width ="20"> </h2>
@@ -136,7 +136,7 @@
 
 <p align="center"> 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tejasvirajsingh&theme=react-dark&bg_color=000000&hide_border=true" heights="450" width="850">  </p>
----
+
 <div align="center">
 
 
@@ -151,5 +151,5 @@
 
 
 <h3 align="center">🔥 <i><sub>Thanks You For Explore !</sub></i> ❤️</h3>
-
-||--------------------------------------------------------------------------------------------------------------------------------------------------------||
+<p align="center">||---------------------------------------------------------------------------------------||
+ </p>
