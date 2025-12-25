@@ -143,7 +143,6 @@
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=tejasvirajsingh&theme=radical&hide_border=true" height="160px" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasvirajsingh&theme=radical&hide_border=true&layout=compact" height="160px" />
 
 </div>
 
